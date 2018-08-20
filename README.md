@@ -11,6 +11,8 @@ The tool was built with the ThreeJS Library, and all models are loaded via an OB
 
 This tool is connected via the AllGameMaps.com database and fetches all the object paths and URLs from there, aswell as the resource cost data etc. This information will not be made publicly available.
 
+This tool uses features from the PHP Laravel Framework and uses their PHP Blade Syntax.
+
 Although, I can tell you that the objects array should look something like this:
 https://prnt.sc/kkqume
 

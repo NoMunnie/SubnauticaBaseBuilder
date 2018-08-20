@@ -335,10 +335,7 @@
     <script src="{{ asset( 'plugins/threejs/controls/OrbitControls.js' ) }}"></script>
     <script src="{{ asset( 'plugins/threejs/controls/TransformControls.js' ) }}"></script>
     <script src="{{ asset( 'plugins/threejs/libs/stats.min.js' ) }}"></script>
-
-    <script src="{{ asset( 'js/subnautica-builder/resources.js' ) }}"></script>
-    {{--<script src="{{ asset( 'js/subnautica-builder/objects.js' ) }}"></script>--}}
-
+    
     <script type="JSON/three3dScene" id="scene">
     {
         "metadata": {
